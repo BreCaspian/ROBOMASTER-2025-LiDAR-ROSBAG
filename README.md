@@ -9,11 +9,14 @@
 
 ## 📖 概述
 
-**数据来源：** [华北理工大学 HORIZON 战队 — 雷达组](https://github.com/BreCaspian/RoboMaster-Lidar-Lab)
-**依托平台：** [华北理工 RM 创新实验室](https://space.bilibili.com/481866846?spm_id_from=333.337.0.0)
-**录制时间地点：** ROBOMASTER 2025 超级对抗赛，北京理工大学（珠海）南部赛区现场实录
-**数据用途：** ROBOMASTER 场景下的点云识别、目标检测、三维建图等任务
+<div align="left">
 
+**数据来源：** [华北理工大学 HORIZON 战队 — 雷达组](https://github.com/BreCaspian/RoboMaster-Lidar-Lab)  
+**依托平台：** [华北理工 RM 创新实验室](https://space.bilibili.com/481866846?spm_id_from=333.337.0.0)  
+**录制时间地点：** ROBOMASTER 2025 超级对抗赛，北京理工大学（珠海）南部赛区现场实录  
+**数据用途：** ROBOMASTER 场景下的点云识别、目标检测、三维建图等任务  
+
+</div>
 ---
 
 ## 🗂️ 数据概览
