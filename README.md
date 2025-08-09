@@ -2,7 +2,7 @@
 	<img src="Doc/Figures/NCUST-HORIZON-LiDAR.png" alt="HORIZON 雷达组" width="300"/>
 </div>
 
-<h2 align="center">ROBOMASTER-2025-华北理工大学HORIZON战队-LiDAR ROSBAG</h2>
+<h2 align="center">ROBOMASTER-2025 · 华北理工大学HORIZON战队 · LiDAR ROSBAG</h2>
 
 
 ---
