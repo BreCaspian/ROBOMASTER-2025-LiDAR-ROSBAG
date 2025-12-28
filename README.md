@@ -30,17 +30,11 @@
 > 数据格式为标准 ROS 1 `.bag` 文件，未压缩，采样频率设置为 10 Hz。
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="Doc/Figures/LiDAR-View1.png" width="480"/>
-      </td>
-      <td align="center">
-        <img src="Doc/Figures/LiDAR-View2.png" width="480"/>
-      </td>
-    </tr>
-  </table>
+  <img src="Doc/Figures/LiDAR-View1.png" width="80%"/>
+  <br/>
+  <img src="Doc/Figures/LiDAR-View2.png" width="80%"/>
 </div>
+
 
 
 ​	🎥 ROSBAG展示视频：[Bilibili 视频链接](https://www.bilibili.com/video/BV1s6tnz9Enr/?spm_id_from=333.337.search-card.all.click&vd_source=3c76eab145811dc6a99e9691ce7f2384)
